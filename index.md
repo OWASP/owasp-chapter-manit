@@ -42,44 +42,37 @@ Stay tuned to our Meetup page and social media for updates on upcoming talks, tr
 
 ## Past Events
 
-
-## OWASP MANIT CTF - Capture the Flag Competition - 2025, April 13th
-
+**OWASP MANIT CTF** - Capture the Flag Competition - 2025, April 13th
 - [Event Details](https://www.instagram.com/p/DH2vh8GzCfj/?igsh=cmtjcmZqZXJqNmQz)
 - [Registration Details](https://unstop.com/o/VRJwKBz?utm_medium=Share&utm_source=shortUrlz)
 
-## CyberBasics 1.0 - Beginner Guest Lecture - 2025, April 12th
-
+**CyberBasics 1.0** - Beginner Guest Lecture - 2025, April 12th
 - [Event Details](https://www.instagram.com/p/DIHgcohztwi/?igsh=MXRxMGl3a2VrbTN1aQ==)
 
-## CyberHunter 1.0 - Real World Hacking Game - 2025, April 11th to 13th
-
+**CyberHunter 1.0** - Real World Hacking Game - 2025, April 11th to 13th
 - [Event Details](https://www.instagram.com/p/DIFCDT5sz7t/?igsh=MnFobWl6eHoydGc4)
 
-## CyberQuest 1.0 - The Cybersecurity Conclave of NIT Bhopal - 2025, April 11th to 13th
-
+**CyberQuest 1.0** - The Cybersecurity Conclave of NIT Bhopal - 2025, April 11th to 13th
 - [Event Details](https://www.instagram.com/p/DIKGalRzg2r/?igsh=MTZjZ2dybHUzNTU2aQ==)
 
-## Safer Internet Day - 2025, February 11th 
-
+**Safer Internet Day** - 2025, February 11th 
 - [Event Details](https://www.instagram.com/p/DF8MCdBz5Bt/?igsh=NnQxd3VmajQxeW1n)
 
-## Stay Safe on Social Media - 2023, September 18th 
-
+**Stay Safe on Social Media** - 2023, September 18th 
 - [Event Details](https://www.instagram.com/p/CxTxmaYKRyU/?igsh=bnVpZnRuMDVtcHpw)
 
 
 ## **OWASP CHAPTER MANIT TEAM (2024-2025)**
 
-### Final Year
+Final Year
  - Gautam Pratap (Coordinator / Chapter Leader / Founder)
  - Arpit Goyal (Co-coordiantor)
  - Pavit Chabbra (Co-coordiantor)
 
-### Third Year
+Third Year
  - Ranjeet Singh
 
-### Second Year
+Second Year
  - Pulkit Gangil
  - Pradeep Yadav
  - Swati Menon
@@ -88,7 +81,7 @@ Stay tuned to our Meetup page and social media for updates on upcoming talks, tr
  - Shubhi
 
 
-### First Year
+First Year
  - Ashish 
  - Aaditya 
  - Tanishq 
@@ -109,15 +102,15 @@ Stay tuned to our Meetup page and social media for updates on upcoming talks, tr
 
 ## **OWASP CHAPTER MANIT TEAM (2023-2024)**
 
-### Final Year
+Final Year
  - Durgesh Shah (Coordinator / Chapter Leader / Founder)
 
-### Third Year
+Third Year
  - Gautam Pratap (Founder)
  - Arpit Goyal
  - Pavit Chabbra
 
-### Second Year
+Second Year
  - Ranjeet Singh
 
 
@@ -140,7 +133,7 @@ Durgesh Shah (June 2023 - July 2024)
 ### OWASP CHAPTER MANIT FOUNDERS
 
 Gautam Pratap
- - Aspiring Electrical Engineer | Certified Ethical Hacker | Certified Network Security Practitioner
+ - Aspiring Electrical Engineer, Certified Ethical Hacker, Certified Network Security Practitioner
  - Introduced CyberQuest - The Cybersecurity Conclave of NIT Bhopal
 * [LinkedIn](https://www.linkedin.com/in/gautampratap/)
 
@@ -149,8 +142,6 @@ Durgesh Shah
 * [LinkedIn](https://www.linkedin.com/in/darkoid/)
 
 ## Speakers
-<img src="assets/images/logo/call_for_paper.png"/>
-
 Would you like to speak on the upcoming OWASP Chapter MANIT, Bhopal meetup? [Contact Us](mailto:owasp.chap.manit@gmail.com)
 
 **Email Format :**
