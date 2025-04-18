@@ -4,7 +4,7 @@ displaytext: Active Team
 layout: tab
 tab: true
 permalink: /activeteams/
-order: 3
+order: 1
 tags: OWASP CHAPTER MANIT
 ---
 
