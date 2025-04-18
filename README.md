@@ -8,7 +8,7 @@
 </h5>
 
 This is the source repository of OWASP CHAPTER MANIT. The Chapter wiki is located at  
-👉 https://owasp.org/owasp-manit-chapter/
+👉 https://owasp.org/owasp-chapter-manit/
 
 **Contributions**
 
