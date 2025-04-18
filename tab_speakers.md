@@ -1,9 +1,10 @@
 ---
 title: speakers
 displaytext: Speakers
-layout: null
+layout: tab
 tab: true
-order: 1
+permalink: /speakers/
+order: 5
 tags: OWASP CHAPTER MANIT, Bhopal
 ---
 
