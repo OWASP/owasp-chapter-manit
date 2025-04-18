@@ -1,9 +1,10 @@
 ---
 title: pastevents
 displaytext: Events
-layout: null
+layout: tab
 tab: true
-order: 2
+permalink: /pastevents/
+order: 4
 tags: OWASP CHAPTER MANIT
 ---
 
