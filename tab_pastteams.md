@@ -1,9 +1,10 @@
 ---
 title: pastteams
 displaytext: Past Team
-layout: null
+layout: tab
 tab: true
-order: 3
+permalink: /pastteams/
+order: 2
 tags: OWASP CHAPTER MANIT
 ---
 
