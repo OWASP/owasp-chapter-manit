@@ -1,0 +1,80 @@
+<script type="text/javascript">
+        var gk_isXlsx = false;
+        var gk_xlsxFileLookup = {};
+        var gk_fileData = {};
+        function filledCell(cell) {
+          return cell !== '' && cell != null;
+        }
+        function loadFileData(filename) {
+        if (gk_isXlsx && gk_xlsxFileLookup[filename]) {
+            try {
+                var workbook = XLSX.read(gk_fileData[filename], { type: 'base64' });
+                var firstSheetName = workbook.SheetNames[0];
+                var worksheet = workbook.Sheets[firstSheetName];
+
+                // Convert sheet to JSON to filter blank rows
+                var jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1, blankrows: false, defval: '' });
+                // Filter out blank rows (rows where all cells are empty, null, or undefined)
+                var filteredData = jsonData.filter(row => row.some(filledCell));
+
+                // Heuristic to find the header row by ignoring rows with fewer filled cells than the next row
+                var headerRowIndex = filteredData.findIndex((row, index) =>
+                  row.filter(filledCell).length >= filteredData[index + 1]?.filter(filledCell).length
+                );
+                // Fallback
+                if (headerRowIndex === -1 || headerRowIndex > 25) {
+                  headerRowIndex = 0;
+                }
+
+                // Convert filtered JSON back to CSV
+                var csv = XLSX.utils.aoa_to_sheet(filteredData.slice(headerRowIndex)); // Create a new sheet from filtered array of arrays
+                csv = XLSX.utils.sheet_to_csv(csv, { header: 1 });
+                return csv;
+            } catch (e) {
+                console.error(e);
+                return "";
+            }
+        }
+        return gk_fileData[filename] || "";
+        }
+        </script><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | OWASP MANIT Chapter</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+  <link rel="icon" href="{{ site.baseurl }}/assets/images/owasp_logo.png">
+  {{ site.plugins.jekyll-seo-tag }}
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <img src="{{ site.baseurl }}/assets/images/owasp_logo.png" alt="OWASP Logo" width="100">
+      <h1>OWASP MANIT Chapter</h1>
+    </div>
+    <nav>
+      <ul class="tabs">
+        <li><a href="{{ site.baseurl }}/" {% if page.url == '/' %}class="active"{% endif %}>Home</a></li>
+        <li><a href="{{ site.baseurl }}/info" {% if page.url == '/info' %}class="active"{% endif %}>About</a></li>
+        <li><a href="{{ site.baseurl }}/leaders" {% if page.url == '/leaders' %}class="active"{% endif %}>Leaders</a></li>
+        <li><a href="{{ site.baseurl }}/tab_previousevents" {% if page.url == '/tab_previousevents' %}class="active"{% endif %}>Previous Events</a></li>
+        <li><a href="{{ site.baseurl }}/tab_upcomingevents" {% if page.url == '/tab_upcomingevents' %}class="active"{% endif %}>Upcoming Events</a></li>
+        <li><a href="{{ site.baseurl }}/tab_owaspmanitctf" {% if page.url == '/tab_owaspmanitctf' %}class="active"{% endif %}>OWASP MANIT CTF</a></li>
+        <li><a href="{{ site.baseurl }}/tab_cyberquest" {% if page.url == '/tab_cyberquest' %}class="active"{% endif %}>CyberQuest</a></li>
+        <li><a href="{{ site.baseurl }}/tab_projects" {% if page.url == '/tab_projects' %}class="active"{% endif %}>Projects</a></li>
+        <li><a href="{{ site.baseurl }}/tab_founders" {% if page.url == '/tab_founders' %}class="active"{% endif %}>Founders</a></li>
+        <li><a href="{{ site.baseurl }}/tab_team" {% if page.url == '/tab_team' %}class="active"{% endif %}>Team</a></li>
+        <li><a href="{{ site.baseurl }}/tab_speakers" {% if page.url == '/tab_speakers' %}class="active"{% endif %}>Speakers</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    <p>© OWASP MANIT Chapter. Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a>.</p>
+    <p>Contact: <a href="mailto:owasp.chap.manit@gmail.com">owasp.chap.manit@gmail.com</a> | Follow us on <a href="https://www.linkedin.com/company/owasp-manit-bhopal">LinkedIn</a></p>
+  </footer>
+</body>
+</html>
