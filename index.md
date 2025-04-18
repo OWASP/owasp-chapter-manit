@@ -32,9 +32,9 @@ Together, let's build a stronger, safer, and more secure digital world starting 
 
 - **Security Awareness Drive**: Conducted sessions on basic digital hygiene and cyber threats in local Bhopal colleges including IES College.  
 - **Safer Internet Day**: Celebrated with a day-long event in MANIT Bhopal including expert talks and awareness campaigns.  
-- **CyberQuest 1.0**: (Annual Cybersecurity Conclave by OWASP CHAPTER MANIT)
-  - **CyberHunter 1.0**: A real-world hacking simulation game that tested critical thinking, reconnaissance, and vulnerability exploitation.  
-  - **CyberBasics 1.0**: A beginner-friendly guest lecture and workshop on core cybersecurity principles and tools.  
+- **CyberQuest**: (Annual Cybersecurity Conclave by OWASP CHAPTER MANIT)
+  - **CyberHunter**: A real-world hacking simulation game that tested critical thinking, reconnaissance, and vulnerability exploitation.  
+  - **CyberBasics**: A beginner-friendly guest lecture and workshop on core cybersecurity principles and tools.  
   - **OWASP MANIT CTF**: A competitive Capture The Flag contest open to all colleges in Bhopal.  
 
 Stay tuned to our Meetup page and social media for updates on upcoming talks, training sessions, and community collaborations.
