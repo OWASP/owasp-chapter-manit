@@ -120,12 +120,12 @@ Durgesh Shah (June 2023 - July 2024)
 
 ## OWASP CHAPTER MANIT FOUNDERS
 
-###Gautam Pratap
+### Gautam Pratap
  - Aspiring Electrical Engineer, Certified Ethical Hacker, Certified Network Security Practitioner
  - Introduced CyberQuest - The Cybersecurity Conclave of NIT Bhopal
 * [LinkedIn](https://www.linkedin.com/in/gautampratap/)
 
-###Durgesh Shah
+### Durgesh Shah
  - Security Engg @ JCI · eWPTX · eJPTv2
 * [LinkedIn](https://www.linkedin.com/in/darkoid/)
 
