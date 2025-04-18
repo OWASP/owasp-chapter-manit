@@ -1,9 +1,10 @@
 ---
 title: blogs
 displaytext: Blogs/Posts
-layout: null
+layout: tab
 tab: true
-order: 4
+permalink: /blogs/
+order: 3
 tags: OWASP CHAPTER MANIT
 ---
 
