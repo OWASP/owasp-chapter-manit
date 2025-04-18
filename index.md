@@ -28,7 +28,7 @@ Together, let's build a stronger, safer, and more secure digital world starting 
 - [Gautam Pratap](https://www.linkedin.com/in/gautampratap/)  
 - [Durgesh Shah](https://www.linkedin.com/in/darkoid/)  
 
-## Recent and Upcoming Events  
+## Upcoming Events  
 
 - **Security Awareness Drive**: Conducted sessions on basic digital hygiene and cyber threats in local Bhopal colleges including IES College.  
 - **Safer Internet Day**: Celebrated with a day-long event in MANIT Bhopal including expert talks and awareness campaigns.  
