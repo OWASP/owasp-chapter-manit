@@ -31,11 +31,11 @@ Together, let's build a stronger, safer, and more secure digital world starting 
 ## Recent and Upcoming Events  
 
 - **Security Awareness Drive**: Conducted sessions on basic digital hygiene and cyber threats in local Bhopal colleges including IES College.  
-- **Safer Internet Day 2025**: Celebrated with a day-long event in MANIT Bhopal including expert talks and awareness campaigns.  
-- **CyberQuest 1.0** _(Annual Cybersecurity Conclave by OWASP MANIT)_  
+- **Safer Internet Day**: Celebrated with a day-long event in MANIT Bhopal including expert talks and awareness campaigns.  
+- **CyberQuest 1.0**: (Annual Cybersecurity Conclave by OWASP CHAPTER MANIT)
   - **CyberHunter 1.0**: A real-world hacking simulation game that tested critical thinking, reconnaissance, and vulnerability exploitation.  
   - **CyberBasics 1.0**: A beginner-friendly guest lecture and workshop on core cybersecurity principles and tools.  
-  - **OWASP MANIT CTF**: A competitive Capture The Flag contest open to all colleges in Bhopal, testing skills in cryptography, web exploitation, forensics, and more.  
+  - **OWASP MANIT CTF**: A competitive Capture The Flag contest open to all colleges in Bhopal.  
 
 Stay tuned to our Meetup page and social media for updates on upcoming talks, training sessions, and community collaborations.
 
@@ -64,15 +64,15 @@ Stay tuned to our Meetup page and social media for updates on upcoming talks, tr
 
 ## **OWASP CHAPTER MANIT TEAM (2024-2025)**
 
-Final Year
+**Final Year**
  - Gautam Pratap (Coordinator / Chapter Leader / Founder)
  - Arpit Goyal (Co-coordiantor)
  - Pavit Chabbra (Co-coordiantor)
 
-Third Year
+**Third Year**
  - Ranjeet Singh
 
-Second Year
+**Second Year**
  - Pulkit Gangil
  - Pradeep Yadav
  - Swati Menon
@@ -80,8 +80,7 @@ Second Year
  - Paridhi
  - Shubhi
 
-
-First Year
+**First Year**
  - Ashish 
  - Aaditya 
  - Tanishq 
@@ -102,42 +101,31 @@ First Year
 
 ## **OWASP CHAPTER MANIT TEAM (2023-2024)**
 
-Final Year
+**Final Year**
  - Durgesh Shah (Coordinator / Chapter Leader / Founder)
 
-Third Year
+**Third Year**
  - Gautam Pratap (Founder)
  - Arpit Goyal
  - Pavit Chabbra
 
-Second Year
+**Second Year**
  - Ranjeet Singh
 
 
-
-
-### Current Chapter Leaders
-
-Deepak Singh Tomar (June 2023 - Present)
-
-Gautam Pratap (June 2023 - Present)
-
-Ranjeet Singh (June 2025 - Present)
-
-
-### Previous Chapter Leaders
+## Previous Chapter Leaders
 
 Durgesh Shah (June 2023 - July 2024)
 
 
-### OWASP CHAPTER MANIT FOUNDERS
+## OWASP CHAPTER MANIT FOUNDERS
 
-Gautam Pratap
+###Gautam Pratap
  - Aspiring Electrical Engineer, Certified Ethical Hacker, Certified Network Security Practitioner
  - Introduced CyberQuest - The Cybersecurity Conclave of NIT Bhopal
 * [LinkedIn](https://www.linkedin.com/in/gautampratap/)
 
-Durgesh Shah
+###Durgesh Shah
  - Security Engg @ JCI · eWPTX · eJPTv2
 * [LinkedIn](https://www.linkedin.com/in/darkoid/)
 
