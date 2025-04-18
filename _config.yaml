@@ -1,0 +1,24 @@
+title: OWASP MANIT Chapter
+description: OWASP Chapter at Maulana Azad National Institute of Technology, Bhopal, dedicated to enhancing cybersecurity awareness.
+theme: minima
+baseurl: "/owasp-chapter-manit"
+url: "https://owasp.github.io"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+header_pages:
+  - index.md
+  - info.md
+  - leaders.md
+  - tab_previousevents.md
+  - tab_upcomingevents.md
+  - tab_owaspmanitctf.md
+  - tab_cyberquest.md
+  - tab_projects.md
+  - tab_founders.md
+  - tab_team.md
+  - tab_speakers.md
+owasp:
+  logo: "assets/images/owasp_logo.png"
+  primary_color: "#013763"
+  secondary_color: "#FFFFFF"
