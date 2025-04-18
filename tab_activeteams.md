@@ -1,8 +1,9 @@
 ---
 title: activeteams
 displaytext: Active Team
-layout: null
+layout: tab
 tab: true
+permalink: /activeteams/
 order: 3
 tags: OWASP CHAPTER MANIT
 ---
