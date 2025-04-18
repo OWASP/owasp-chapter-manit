@@ -1,5 +1,5 @@
 ### Chapter Information
-* [OWASP Chennai mail list](mailto:owasp.chap.manit@gmail.com)
+* [OWASP Chapter MANIT mail list](mailto:owasp.chap.manit@gmail.com)
 
 ### Social Links
 * [Meetup](https://www.meetup.com/owasp-maulana-azad-national-institute-of-technology-chapter/)
