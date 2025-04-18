@@ -3,7 +3,7 @@
 <h5 align="center">
   <br>
   <a href="https://owasp.org/owasp-chapter-manit/">
-    <img src="assets/images/logo/owasp_manit_logo.png" alt="OWASP CHAPTER MANIT">
+    <img src="assets/images/logo/owasp_manit_l.png" alt="OWASP CHAPTER MANIT">
   </a>
 </h5>
 
