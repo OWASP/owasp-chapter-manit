@@ -1,8 +1,9 @@
 ---
 title: leaders
 displaytext: Leaders
-layout: null
+layout: tab
 tab: true
+permalink: /leaders/
 order: 3
 tags: OWASP CHAPTER MANIT
 ---
