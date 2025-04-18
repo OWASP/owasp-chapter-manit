@@ -1,9 +1,10 @@
 ---
 title: founders
 displaytext: Founders
-layout: null
+layout: tab
 tab: true
-order: 3
+permalink: /founders/
+order: 7
 tags: OWASP CHAPTER MANIT
 ---
 
