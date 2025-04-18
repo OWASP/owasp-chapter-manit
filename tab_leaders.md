@@ -4,7 +4,7 @@ displaytext: Leaders
 layout: tab
 tab: true
 permalink: /leaders/
-order: 3
+order: 6
 tags: OWASP CHAPTER MANIT
 ---
 
