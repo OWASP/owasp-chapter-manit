@@ -149,7 +149,7 @@ Would you like to speak on the upcoming OWASP Chapter MANIT, Bhopal meetup? [Con
 
 ## Participation  
 
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our tools, documents, projects, and chapters are open-source and free to everyone.  
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our tools, documents, projects, and chapters are open-source and free to everyone.  
 
 To be a **speaker** at OWASP Chapter MANIT (or any global chapter), simply reach out to the local chapter leaders with your topic, research, or workshop idea — we are always looking for fresh voices and knowledge to share!  
 
