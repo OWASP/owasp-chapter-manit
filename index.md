@@ -164,10 +164,6 @@ Join us through:
 
 You can also [become a member](/membership) or [donate](/donate) to support our mission.  
 
-**OWASP Chapter MANIT proudly celebrates OWASP’s 20th Anniversary!**  
-
-<img src="assets/images/OWASP_20th_Anniversary.jpeg">  
-
 ```Switch to Speakers tab for more information on presenting your research or talk at OWASP Chapter MANIT```  
 
 ## Upcoming Meetup Events  
